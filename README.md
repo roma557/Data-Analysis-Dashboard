@@ -16,7 +16,8 @@ Dataset used- <a href="https://github.com/roma557/Data-Analysis-Dashboard/edit/m
 - Percentage of Total Orders delivered
 
 Dashboard
-     ![Uploading image.png…]()
+     
+<img width="1066" height="691" alt="image" src="https://github.com/user-attachments/assets/018eb060-0dcd-4af2-814d-30797a319406" />
 
 
 
