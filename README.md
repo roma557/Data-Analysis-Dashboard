@@ -22,10 +22,7 @@ Dataset used- <a href="https://github.com/roma557/Data-Analysis-Dashboard/edit/m
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
-  Dashboard
-    <img width="1066" height="691" alt="image" src="https://github.com/user-attachments/assets/6a1e4ef6-f962-4751-bf7d-966530bca0eb" />
-
-
+  
 ## Project Insight
 - Women customers are more likely to buy products compared to men (~65%).
 - The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
