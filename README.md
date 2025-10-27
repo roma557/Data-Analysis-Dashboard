@@ -15,19 +15,16 @@ Dataset used- <a href="https://github.com/roma557/Data-Analysis-Dashboard/edit/m
 - Highest selling category?
 - Percentage of Total Orders delivered
 
-Dashboard
-     
-<img width="1066" height="691" alt="image" src="https://github.com/user-attachments/assets/018eb060-0dcd-4af2-814d-30797a319406" />
-
-
-
-
 
 ## Process
 - Verify data for any missing values and anomalies and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+  Dashboard
+    <img width="1066" height="691" alt="image" src="https://github.com/user-attachments/assets/6a1e4ef6-f962-4751-bf7d-966530bca0eb" />
+
 
 ## Project Insight
 - Women customers are more likely to buy products compared to men (~65%).
